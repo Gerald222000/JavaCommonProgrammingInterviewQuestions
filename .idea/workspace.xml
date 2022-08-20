@@ -1,29 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="368dfb9c-f25c-46cb-951f-2d29941e3758" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCommonProgrammingInterviewQuestions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beginner/AreTheNumbersEqual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beginner/AreaOfATriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beginner/BasicVariableAssignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beginner/ConvertMinutesIntoSeconds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beginner/IsTheNumberLessThanOrEqualToZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beginner/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beginner/MaximumEdgeOfATriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beginner/PowerCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beginner/ReturnTheNextNumberFromTheIntegerPassed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beginner/ReturnTheRemainderFromTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beginner/ReturnTheSumOfTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/MedianofTwoSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/RomanToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="368dfb9c-f25c-46cb-951f-2d29941e3758" name="Changes" comment="Big O and Array">
+      <change afterPath="$PROJECT_DIR$/src/DataStructuresAndAlgorithms/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructuresAndAlgorithms/BigO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructuresAndAlgorithms/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +53,16 @@
       <workItem from="1660785818311" duration="3486000" />
       <workItem from="1660808636153" duration="3495000" />
       <workItem from="1660896827410" duration="986000" />
+      <workItem from="1660969107019" duration="8314000" />
     </task>
+    <task id="LOCAL-00001" summary="Coding Interview Question">
+      <created>1660969213496</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660969213496</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,5 +78,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Coding Interview Question" />
+    <MESSAGE value="Big O and Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Big O and Array" />
   </component>
 </project>
